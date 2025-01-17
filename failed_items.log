@@ -3,5 +3,15 @@
         "name": "pokedex",
         "url": "https://salmon-worm-461509.hostingersite.com/components/pokedex",
         "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "name": "aznews",
+        "url": "https://salmon-worm-461509.hostingersite.com/page2/aznews",
+        "error": "Timeout 30000ms exceeded."
+    },
+    {
+        "name": "aznews",
+        "url": "https://salmon-worm-461509.hostingersite.com/cheers/page2/aznews",
+        "error": "Timeout 30000ms exceeded."
     }
 ]
